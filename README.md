@@ -1,4 +1,6 @@
-blabla
+\## blabla
+
+---
 
 !\[picture1](https://raw.githubusercontent.com/nailsuljovic-dev/first-assignment/refs/heads/main/assets/bash1.png)
 
